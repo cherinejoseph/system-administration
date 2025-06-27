@@ -15,7 +15,7 @@ Network Funtime Company is a small company that builds open-source software. As 
 
 In this file, I provide recommendations based on the company's current setup and limitations, which include inconsistent laptop hardware, lack of asset management, inefficient new hire setup, and a cumbersome process for handling tech-related requests.
 
-[Click here to read the detailed review of this scenario.](./network_funtime_scenario_1.md)
+[Click here to read the detailed review of this scenario.](https://github.com/cherinejoseph/system-administration/blob/main/Scenario_1_Network_Funtime_Company_Process_Review.md)
 
 ---
 
@@ -26,7 +26,7 @@ W.D. Widgets is a sales company with 80-100 employees. The company’s IT system
 
 The company’s growth is rapidly accelerating, and they need improvements in scalability, data security, and IT management processes to ensure smooth operations moving forward.
 
-[Click here to read the detailed review of this scenario.](./wd_widgets_scenario_2.md)
+[Click here to read the detailed review of this scenario.](https://github.com/cherinejoseph/system-administration/blob/main/Scenario_2_W.D.%20Widgets_Process_Review.md)
 
 ---
 
@@ -37,7 +37,7 @@ Dewgood is a small non-profit organization with 50 employees. The IT infrastruct
 
 The company relies on a single server for file and email services, and the backup process is manual and prone to potential data loss. Dewgood needs improvements to their IT processes to enhance operational efficiency, security, and overall system reliability.
 
-[Click here to read the detailed review of this scenario.](./dewgood_scenario_3.md)
+[Click here to read the detailed review of this scenario.](https://github.com/cherinejoseph/system-administration/blob/main/Scenario_3_Dewgood_Process_Review.md)
 
 ---
 
